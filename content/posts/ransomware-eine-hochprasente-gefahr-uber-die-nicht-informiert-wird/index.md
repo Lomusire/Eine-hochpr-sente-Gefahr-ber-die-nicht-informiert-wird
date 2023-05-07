@@ -41,19 +41,11 @@ Hunderte von Tools wie Chaos Ransomware Builder, Catlogs, SQLBOX und Aio Stealer
 
 ![Catalogs: Ransomware-Tools mit einer sehr übersichtlichen und einfach zu bedienenden Benutzeroberfläche sowie einem Cookie-Stealer und  Clipper Malware](catlogs.png "Catalogs")
 
-Umso mehr stellt sich die Frage wie sich Unternehmen gegen die zunehmende Bedrohung durch Cyberkriminalität insbesondere Ransomware schützen. Bei PostFinance spielt man intern ein Katz und Maus Spiel mit Gruppen Rot und Blau (Angreifer und Beschützer) wobei sie nicht Gegeneinander sondern Miteinander am Ziel, PostFinance sicherer zu machen arbeiten. Michael erklärt 
+Umso mehr stellt sich die Frage wie sich Unternehmen gegen die zunehmende Bedrohung durch Cyberkriminalität insbesondere Ransomware schützen. Bei PostFinance spielt man intern ein Katz und Maus Spiel mit Gruppen Rot und Blau (Angreifer und Beschützer) wobei sie nicht Gegeneinander sondern Miteinander am Ziel, PostFinance sicherer zu machen arbeiten. Michael erklärt: 
 
-> „Er (Philipp) ist eher so im Red Team, Ich im Blue Team. Dort kennen wir dann die Tools auch und das hilft uns dann nachher..“. 
+> „Er (Philipp) ist eher so im Red Team, Ich im Blue Team. Dort kennen wir dann die Tools auch und das hilft uns dann nachher...“
 
- Ein anderes System stellen Bug Bounty’s da. Dabei bezahlt ein Unternehmen externe Hacker, falls sie Sicherheitslücken finden und melden können. PostFinace hat mit Bug Bounty Programmen, insbesondere nicht öffentlich bekannten, so Philipp 
-
-> «selber gewisse ähm Erfahrungen gemacht … und gewisse Learnings daraus gezogen“.
-
- Da die PostFinance aber 
-
-> „spezielle Anforderungen“ 
-
-hat und nicht viele öffentlich exponierte Anwendungen habe, verwenden sie keine Bug Bounty Programme.
+ Ein anderes System stellen Bug Bounty’s da. Dabei bezahlt ein Unternehmen externe Hacker, falls sie Sicherheitslücken finden und melden können. PostFinace hat mit Bug Bounty Programmen, insbesondere nicht öffentlich bekannten, so Philipp selber Erfahrungen gemacht und gewisse Learnings daraus gezogen. Da die PostFinance aber „spezielle Anforderungen“ hat und nicht viele öffentlich exponierte Anwendungen habe, verwenden sie keine Bug Bounty Programme.
 
 \
-Man kann der Sicherheit unseres Internets oder unserer Daten heute nicht mehr blind vertrauen. Es ist wichtig zu verstehen welches Ausmass Ransomware Angriffe auf online Portale oder Privatpersonen haben können und jeder für sich Massnahmen vornimmt, um möglichen Missbrauch oder Verlust der eigenen Daten zu verhindern. Im Einfachen ist es bereits eine gute Idee für jeden Account ein anderes Passwort zu nehmen. Selbst Multi Factor Authentication kann leicht übergangen werden, wenn die Angreifer auch Browser Cookies erbeuten können. Deshalb ist es sinnvoll Cookies auf wichtigen Seiten abzulehnen. Virtuelle Kreditkarten zum einmaligen Gebrauch wie z.B. Revolut, Cakepay oder PayWithMoon verunmöglichen, dass auf Webshops gespeicherte Kreditkarteninformationen missbraucht werden. Für Daten die wichtig sind sollte ein externes Backup erstellt werden und für Daten die nicht in falsche Hände geraten sollten, ist es ratsam diese zu verschlüsseln.
+Man kann der Sicherheit unseres Internets oder unserer Daten heute nicht mehr blind vertrauen. Es ist wichtig zu verstehen welches Ausmass Ransomware Angriffe auf online Portale oder Privatpersonen haben können und das jeder für sich Massnahmen vornimmt, um möglichen Missbrauch oder Verlust der eigenen Daten zu verhindern. Im Einfachen ist es bereits eine gute Idee für jeden Account ein anderes Passwort zu nehmen. Selbst Multi Factor Authentication kann leicht übergangen werden, wenn die Angreifer auch Browser Cookies erbeuten können. Deshalb ist es sinnvoll Cookies auf wichtigen Seiten abzulehnen. Virtuelle Kreditkarten zum einmaligen Gebrauch wie z.B. Revolut, Cakepay oder PayWithMoon verunmöglichen, dass auf Webshops gespeicherte Kreditkarteninformationen missbraucht werden. Für Daten die wichtig sind sollte ein externes Backup erstellt werden und für Daten die nicht in falsche Hände geraten sollten, ist es ratsam diese zu verschlüsseln.
