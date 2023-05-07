@@ -1,7 +1,7 @@
 +++
 headless = true
-title = "My Name"
-description = "A Journey of Life and Learning"
-footerLeft = "Powered by 💛 and [Lilo.Blog](https://www.lilo.blog)"
-footerRight = "[🏷️ Tags](/tags/) | [🗃️ Archive](/posts/) | [📣 Social](https://www.lilo.blog)"	
+title = "Ransomware - Eine hochpräsente Gefahr über die nicht informiert wird"
+description = "Laut Studien ist die Mehrheit der Unternehmen von Ransomware Vorfällen mit Datendiebstahl betroffen, doch aus Angst einer Eskalation des Schadens informieren nur die wenigsten ihre Kunden. "
+footerLeft = ""
+footerRight = "[🏷️ Tags](/tags/) | [🗃️ Archive](/posts/) | [📣 Social](https://www.lilo.blog)"
 +++
