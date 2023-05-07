@@ -37,6 +37,8 @@ Betrachtet man die alarmierenden Daten, kommt schnell die Frage auf, warum es ü
 
 Hunderte von Tools wie Chaos Ransomware Builder, Catlogs, SQLBOX und Aio Stealer ermöglichen es, ohne Vorkenntnisse innert kürzester Zeit Ransomware zu generieren. Ausserdem gibt es viele grosse Cybercrime-Gruppen, die professionell Ransomware entwickeln und für andere als kostenpflichtiger Service verbreiten.
 
+![Catalogs: Ransomware-Tools mit einer sehr übersichtlichen und einfach zu bedienenden Benutzeroberfläche sowie einem Cookie-Stealer und  Clipper Malware](https://i.ibb.co/0j7Cdzj/grafik.png)
+
 Umso mehr stellt sich die Frage wie sich Unternehmen gegen die zunehmende Bedrohung durch Cyberkriminalität insbesondere Ransomware schützen. Bei PostFinance spielt man intern ein Katz und Maus Spiel mit Gruppen Rot und Blau (Angreifer und Beschützer) wobei sie nicht Gegeneinander sondern Miteinander am Ziel, PostFinance sicherer zu machen arbeiten. Michael erklärt „Er (Philipp) ist eher so im Red Team, Ich im Blue Team. Dort kennen wir dann die Tools auch und das hilft uns dann nachher..“.  Ein anderes System stellen Bug Bounty’s da. Dabei bezahlt ein Unternehmen externe Hacker, falls sie Sicherheitslücken finden und melden können. PostFinace hat mit Bug Bounty Programmen, insbesondere nicht öffentlich bekannten, so Philipp 
 
 > «selber gewisse ähm Erfahrungen gemacht … und gewisse Learnings daraus gezogen“. Da die PostFinance aber „spezielle Anforderungen“ 
