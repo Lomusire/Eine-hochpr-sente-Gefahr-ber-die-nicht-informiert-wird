@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "DarkerLoxNet"
+name = "DarkerNet"
 image = "https://i.ibb.co/KhC9StF/grafik.png"
 url = "/about/"
 +++
