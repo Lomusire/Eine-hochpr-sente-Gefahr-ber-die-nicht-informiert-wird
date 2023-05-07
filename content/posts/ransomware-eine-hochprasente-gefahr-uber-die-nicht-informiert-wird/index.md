@@ -9,7 +9,11 @@ footnotes = "\n\nTrendMicro:\\\n<https://www.computerworld.ch/security/studie/88
 +++
 
 
-(H2)Laut Studien ist die Mehrheit der Unternehmen von Ransomware Vorfällen mit Datendiebstahl betroffen, doch aus Angst einer Eskalation des Schadens informieren nur die wenigsten ihre Kunden.(H2)
+{{<lead>}}
+
+Laut Studien ist die Mehrheit der Unternehmen von Ransomware Vorfällen mit Datendiebstahl betroffen, doch aus Angst einer Eskalation des Schadens informieren nur die wenigsten ihre Kunden.(H2)
+
+{{</lead>}}
 
 Leon arbeitet bei einem fiktiven Schweizer Handelsunternehmen, dass auch einen Onlineshop betreibt. Wie schon oft zuvor bekommt er von einem Kunden ein Worddokument mit einer Bestellung zugeschickt. Als in Outlook das Preview der Bestellung geladen wird öffnet sich plötzlich ein Fenster mit «Problembehandlung bei der Programmkompatibilität». Kurz darauf öffnet sich das Worddokument und die Bestellung wird angezeigt. Leon denkt sich nicht viel dabei, schliesst das Problembehebungsfenster nachdem dieses sichtlich nichts macht und fährt weiter mit der Arbeit.
 
