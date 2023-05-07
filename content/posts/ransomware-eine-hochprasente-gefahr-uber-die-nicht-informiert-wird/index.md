@@ -47,7 +47,11 @@ Umso mehr stellt sich die Frage wie sich Unternehmen gegen die zunehmende Bedroh
 
  Ein anderes System stellen Bug Bounty’s da. Dabei bezahlt ein Unternehmen externe Hacker, falls sie Sicherheitslücken finden und melden können. PostFinace hat mit Bug Bounty Programmen, insbesondere nicht öffentlich bekannten, so Philipp 
 
-> «selber gewisse ähm Erfahrungen gemacht … und gewisse Learnings daraus gezogen“. Da die PostFinance aber „spezielle Anforderungen“ 
+> «selber gewisse ähm Erfahrungen gemacht … und gewisse Learnings daraus gezogen“.
+
+ Da die PostFinance aber 
+
+> „spezielle Anforderungen“ 
 
 hat und nicht viele öffentlich exponierte Anwendungen habe, verwenden sie keine Bug Bounty Programme.
 
