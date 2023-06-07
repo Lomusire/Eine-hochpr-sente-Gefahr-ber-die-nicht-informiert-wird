@@ -1,5 +1,5 @@
 +++
-title = "Ransomware - Eine hochpräsente Gefahr über die nicht informiert wird"
+title = "Ransomware – Eine hochpräsente Gefahr, über die nicht informiert wird"
 date = "2023-05-07"
 draft = false
 pinned = false
