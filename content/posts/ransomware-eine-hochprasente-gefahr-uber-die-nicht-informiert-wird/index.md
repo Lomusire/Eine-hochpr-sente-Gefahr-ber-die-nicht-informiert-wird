@@ -27,7 +27,7 @@ In den darauffolgenden Tagen müssen alle Mitarbeiter ihre Passwörter ändern, 
 
 <hr>
 
-Am Beispiel von Leon’s Firma, wird gezeigt wie die meisten Unternehmen mit einer Ransomware Attacke umgehen. Dies wird auch indirekt in einem Interview mit zwei Cybersecurity – Experten, Michael und Phillip von Postfinance bestätigt. Auf die Frage ob Postfinance schon einmal einen Ransomware Vorfall hatte, antwortet Phillip:
+Am Beispiel von Leons Firma wird gezeigt, wie die meisten Unternehmen mit einer Ransomware Attacke umgehen. Dies wird auch indirekt in einem Interview mit zwei Cybersecurity-Experten, Michael und Phillip von Postfinance, bestätigt. Auf die Frage, ob Postfinance schon einmal einen Ransomware Vorfall hatte, antwortet Phillip:
 
 >  „Ich glaube diese Frage würden wir nicht ehrlich beantworten“ (lacht). 
 
