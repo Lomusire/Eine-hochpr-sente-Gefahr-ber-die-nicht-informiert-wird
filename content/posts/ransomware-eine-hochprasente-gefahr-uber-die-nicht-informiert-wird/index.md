@@ -23,7 +23,7 @@ Wird das Lösegeld bezahlt, gibt es keine Garantie dafür, dass die Daten tatsä
 
 ![OpenBullet: Tool, das häufig verwendet wird, um automatisch Account-Daten auf verschiedenen Websites auszuprobieren.](https://i.ibb.co/LSmWjJW/Opennbulllet.png "OpenBullet")
 
-In den darauffolgenden Tagen müssen alle Mitarbeiter ihre Passwörter ändern, alle PCs werden neu installiert, und es gibt eine Betriebsversammlung bei der erklärt wird, dass die Sicherheit des Firmennetzwerkes wieder hergestellt sei, den Kunden werde jedoch nichts bezüglich des Vorfalls mitgeteilt, es sei nicht sicher, dass Kundendaten durch die Attacke missbraucht werden und es ist nicht verpflichtend die Kunden zu informieren. Leon und einige seiner Kollegen sind mit der Haltung der Firmenleitung nicht einverstanden, respektieren jedoch deren Entscheidung. Ob am Ende Ransomware - Lösegeld gezahlt wurde erfährt Leon nicht.
+In den darauffolgenden Tagen müssen alle Mitarbeiter ihre Passwörter ändern, alle PCs werden neu installiert, und es gibt eine Betriebsversammlung, bei der erklärt wird, dass die Sicherheit des Firmennetzwerkes wiederhergestellt sei, den Kunden werde jedoch nichts bezüglich des Vorfalls mitgeteilt, es sei nicht sicher, dass Kundendaten durch die Attacke missbraucht werden und es ist nicht verpflichtend, die Kunden zu informieren. Leon und einige seiner Kollegen sind mit der Haltung der Firmenleitung nicht einverstanden, respektieren jedoch deren Entscheidung. Ob am Ende Ransomwarelösegeld gezahlt wurde erfährt Leon nicht.
 
 <hr>
 
